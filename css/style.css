@@ -276,7 +276,7 @@ nav .container {
 
 .links a.active:hover {
   color: var(--light-one);
-  background-color: #6b44e0;
+  background-color: #e044b9;
 }
 
 .hamburger-menu {
@@ -640,7 +640,7 @@ header .circle {
   left: 0;
   z-index: 2;
   color: var(--light-one);
-  background-color: rgba(120, 76, 251, 0.55);
+  background-color: rgba(251, 76, 163, 0.719);
   display: flex;
   flex-direction: column;
   align-items: center;
